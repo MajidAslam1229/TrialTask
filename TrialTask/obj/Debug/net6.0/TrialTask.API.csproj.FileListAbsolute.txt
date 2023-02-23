@@ -1,0 +1,183 @@
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\appsettings.Development.json
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\appsettings.json
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.exe
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.deps.json
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.runtimeconfig.json
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.pdb
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Azure.Core.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Azure.Identity.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Humanizer.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.CodeDom.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Memory.Data.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Text.Json.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TiralTask.Repository.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Entities.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Objects.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TiralTask.Repository.pdb
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Entities.pdb
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Objects.pdb
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.csproj.AssemblyReference.cache
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.AssemblyInfoInputs.cache
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.AssemblyInfo.cs
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.csproj.CoreCompileInputs.cache
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.MvcApplicationPartsAssemblyInfo.cs
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.MvcApplicationPartsAssemblyInfo.cache
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets\msbuild.TrialTask.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets\msbuild.build.TrialTask.API.props
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TrialTask.API.props
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TrialTask.API.props
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets.pack.json
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets.build.json
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets.development.json
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\scopedcss\bundle\TrialTask.API.styles.css
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.csproj.CopyComplete
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\refint\TrialTask.API.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.pdb
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.genruntimeconfig.cache
+D:\All Projects\TiralTask\TiralTask\TrialTask\obj\Debug\net6.0\ref\TrialTask.API.dll
+D:\All Projects\TiralTask\TiralTask\TrialTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.exe
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.deps.json
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.runtimeconfig.json
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\ref\TrialTask.API.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.API.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TiralTask.Repository.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Entities.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Objects.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TiralTask.Repository.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Entities.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask\bin\Debug\net6.0\TrialTask.Objects.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.AssemblyInfo.cs
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\scopedcss\bundle\TrialTask.API.styles.css
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.csproj.CopyComplete
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\ref\TrialTask.API.dll
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask\obj\Debug\net6.0\TrialTask.API.genruntimeconfig.cache

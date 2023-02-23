@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\bin\Release\net6.0\TrialTask.Objects.deps.json
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\bin\Release\net6.0\TrialTask.Objects.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\bin\Release\net6.0\ref\TrialTask.Objects.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\bin\Release\net6.0\TrialTask.Objects.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\TrialTask.Objects.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\TrialTask.Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\TrialTask.Objects.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\TrialTask.Objects.AssemblyInfo.cs
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\TrialTask.Objects.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\TrialTask.Objects.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\ref\TrialTask.Objects.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Objects\obj\Release\net6.0\TrialTask.Objects.pdb

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\bin\Release\net6.0\TrialTask.Entities.deps.json
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\bin\Release\net6.0\TrialTask.Entities.runtimeconfig.json
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\bin\Release\net6.0\TrialTask.Entities.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\bin\Release\net6.0\ref\TrialTask.Entities.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\bin\Release\net6.0\TrialTask.Entities.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.AssemblyInfo.cs
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\ref\TrialTask.Entities.dll
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.pdb
+C:\Users\user\Desktop\TiralTask\TrialTask.Entities\obj\Release\net6.0\TrialTask.Entities.genruntimeconfig.cache

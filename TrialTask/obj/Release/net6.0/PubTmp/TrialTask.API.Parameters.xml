@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="trialtask-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\user\\Desktop\\TiralTask\\TrialTask\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="TrialTask.Entities.TrialTaskDbContext" description="" value="Data Source=SQL5103.site4now.net;Initial Catalog=db_a951d7_trialtaskdb;User Id=db_a951d7_trialtaskdb_admin;Password=P@ssw0rd1229" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\user\\Desktop\\TiralTask\\TrialTask\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\TrialTask\.Entities\.TrialTaskDbContext\.sql$" />
+  </parameter>
+</parameters>

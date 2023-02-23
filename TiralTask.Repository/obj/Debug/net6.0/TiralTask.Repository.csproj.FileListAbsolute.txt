@@ -1,0 +1,38 @@
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.deps.json
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.runtimeconfig.json
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.dll
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.pdb
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Entities.dll
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Objects.dll
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Entities.pdb
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Objects.pdb
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.csproj.AssemblyReference.cache
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.AssemblyInfoInputs.cache
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.AssemblyInfo.cs
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.csproj.CoreCompileInputs.cache
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.csproj.CopyComplete
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.dll
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\refint\TiralTask.Repository.dll
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.pdb
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.genruntimeconfig.cache
+D:\All Projects\TiralTask\TiralTask\TiralTask.Repository\obj\Debug\net6.0\ref\TiralTask.Repository.dll
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.deps.json
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.runtimeconfig.json
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.dll
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\ref\TiralTask.Repository.dll
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TiralTask.Repository.pdb
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Entities.dll
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Objects.dll
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Entities.pdb
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\bin\Debug\net6.0\TrialTask.Objects.pdb
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.csproj.CopyComplete
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.dll
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\ref\TiralTask.Repository.dll
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.pdb
+C:\Users\user\Desktop\TiralTask\TiralTask.Repository\obj\Debug\net6.0\TiralTask.Repository.genruntimeconfig.cache
